@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A newbie in the programming world",
+		"- ⚡ Quick bio:":                     "A newbie in the programming world",
 		"- 🔭 I’m currently working on":      "Pursuing a Master's Degree at Nanjing University",
 		"- 🌱 I’m currently learning":        "Apache Spark, Apache Flink, Apache Doris, SQLancer, HiBench, Golang, K8S, Serverless --- Distributed parallel processing systems",
 		"- 👯 I’m looking to collaborate on": "Golang, K8S and Serverless related projects",
